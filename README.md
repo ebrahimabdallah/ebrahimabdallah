@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hemareda122@gmail.com**
 
-- 📄 Know about my experiences [Laravel,Php,DataBase,MySql,Html,Css,JavaScript,C++,oop,DataStructure,Algorithms,Git](Laravel,Php,DataBase,MySql,Html,Css,JavaScript,C++,oop,DataStructure,Algorithms,Git)
+- 📄 Know about my experiences [Laravel,Php,DataBase,MySql,Html,Css,JavaScript,C++,oop,DataStructure,Algorithms](Laravel,Php,DataBase,MySql,Html,Css,JavaScript,C++,oop,DataStructure,Algorithms)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
