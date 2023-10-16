@@ -1,4 +1,4 @@
-<h1 align="center"> Ebrahim Reda</h1>
+<h1 align="center">Hi 👋, I'm Ebrahim Reda</h1>
 <h3 align="center">A Backend developer</h3>
 
 - 🌱 I’m currently learning **laravel**
