@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ebrahim-reda-44390a236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebrahim-reda-44390a236/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ebrahim-reda-44390a236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebrahim-reda-44390a236/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ebrahim_reda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ebrahim_reda_" height="30" width="40" /></a>
 </p>
 
